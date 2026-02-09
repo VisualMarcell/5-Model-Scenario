@@ -1,0 +1,31 @@
+soal,label_asli,prediksi_svm,status
+Can you propose an alternative plan to . . . ?,Synthesis,Synthesis,Benar
+Name the authors of...?,Knowledge,Knowledge,Benar
+What criticisms could you make ?,Evaluation,Evaluation,Benar
+List important information you can remember from lesson….,Knowledge,Knowledge,Benar
+How does the law of supply and demand explain the current increase in the price of fruit?,Application,Synthesis,Salah
+Can you assess the value or importance of . . . ?,Evaluation,Evaluation,Benar
+List two reference parameters in the setHour function,Knowledge,Knowledge,Benar
+Justify the concept of inheritance and give the sample of code to illustrate your answer.,Evaluation,Evaluation,Benar
+How can you differentiate between...?,Analysis,Analysis,Benar
+Explain how the heart is like a pump.,Comprehension,Comprehension,Benar
+"""Analyze a work of art in terms of form, color and texture.""",Analysis,Synthesis,Salah
+List two local variables in the main function,Knowledge,Knowledge,Benar
+Put in your own words…,Comprehension,Comprehension,Benar
+Develop a set of criteria for distinguishing between a good and bad example of this.,Analysis,Analysis,Benar
+Construct an alternative way to ...,Synthesis,Synthesis,Benar
+What is the definition of the following terms…,Knowledge,Knowledge,Benar
+How would you justify . . . ?,Evaluation,Evaluation,Benar
+Design a building to house your study.,Synthesis,Synthesis,Benar
+What is the relationship between probability and statistical analysis?,Analysis,Analysis,Benar
+"""In your own words, tell what the story is about.""",Comprehension,Comprehension,Benar
+Propose an alternative way to solve …,Synthesis,Synthesis,Benar
+Explain what is meant.,Comprehension,Comprehension,Benar
+Design a scientific study to test the effect of different kinds of music on hens’ egg production.,Synthesis,Synthesis,Benar
+"""Design a record, book or magazine cover for...""",Synthesis,Synthesis,Benar
+Develop a proof ... and justify each step ...,Evaluation,Evaluation,Benar
+Write an explanation about this topic for others,Application,Synthesis,Salah
+Draw an illustration of the linked list after the execution of each of the statement below. (Use the original illustration for each question).,Application,Analysis,Salah
+"""Discriminate the different parts of the story (introduction, development, climax, resolution.)""",Analysis,Synthesis,Salah
+Identify three mistakes from the passage and correct them.,Comprehension,Analysis,Salah
+--- Summary ---,-,-,"Benar: 23, Salah: 6, Akurasi: 0.793, F1-weighted: 0.757"
